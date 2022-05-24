@@ -1,0 +1,7 @@
+aiogram
+telebot
+sqlite3
+asyncio
+time
+logging
+random
